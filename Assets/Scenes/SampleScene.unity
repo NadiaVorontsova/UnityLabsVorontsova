@@ -217,6 +217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02e1b23aa6cfc304f89e9006b4b09878, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Cube: {fileID: 330057475}
   Size: {x: 4, y: 4, z: 0}
   Rotation: {x: 0, y: 0, z: 0.5}
 --- !u!1 &519420028
