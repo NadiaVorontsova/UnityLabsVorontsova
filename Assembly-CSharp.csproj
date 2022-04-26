@@ -53,10 +53,13 @@
     <UnityVersion>2020.3.27f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CubeController.cs" />
-    <Compile Include="Assets\Scripts\Test.cs" />
-    <Compile Include="Assets\Scripts\Test2.cs" />
-    <Compile Include="Assets\Scripts\Test3.cs" />
+    <Compile Include="Assets\Scripts\Lab1\Test3.cs" />
+    <Compile Include="Assets\Scripts\ProgressBar\ProgressBar.cs" />
+    <Compile Include="Assets\Beautiful Progress Bar Free - CYKO\Scripts\SliderScripts.cs" />
+    <Compile Include="Assets\Scripts\Lab1\Test.cs" />
+    <Compile Include="Assets\Scripts\Lab1\Test2.cs" />
+    <Compile Include="Assets\Scripts\Lab1\CubeController.cs" />
+    <Compile Include="Assets\Scripts\Lab1\Tooltip.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
